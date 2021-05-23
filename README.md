@@ -11,3 +11,6 @@ read qemu-system-arm64.img scan /dev/sda , /dev/sdb , /dev/sdc for boot area HFS
 
 
 macOS -next version as KVM/XEN bare metal OpenCore bootloader (amd64)
+
+
+https://github.com/c4pt000/Docker-fedora-34-nested-docker-OpenCore-ARM64
