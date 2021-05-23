@@ -17,4 +17,4 @@ https://github.com/c4pt000/Docker-fedora-34-nested-docker-OpenCore-ARM64
 https://github.com/c4pt000/corellium-linux-m1
 https://buildroot.org/ -> arm
 
-![ot](https://github.com/c4pt000/macOS-xnu-DARWIN-emulator)
+https://github.com/c4pt000/macOS-xnu-DARWIN-emulator
